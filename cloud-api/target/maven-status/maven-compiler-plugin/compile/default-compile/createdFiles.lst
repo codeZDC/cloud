@@ -1,0 +1,5 @@
+com\bsj\cloud\service\UserService.class
+com\bsj\cloud\domain\User.class
+com\bsj\cloud\domain\Group.class
+com\bsj\cloud\service\UserServiceFallBack.class
+com\bsj\cloud\service\GroupService.class
